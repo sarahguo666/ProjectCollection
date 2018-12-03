@@ -1,1 +1,1 @@
-# ProjectCollection
+# Java Collection
