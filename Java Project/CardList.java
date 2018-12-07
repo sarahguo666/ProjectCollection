@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by Leo on 11/29/17.
+ * Created by Sarah on 11/29/17.
  */
 public class CardList {
     private ArrayList<BankCard> cardList;
