@@ -1,1 +1,1 @@
-# Java Collection
+# Projects Collection in College
