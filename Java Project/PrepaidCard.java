@@ -1,5 +1,5 @@
 /**
- * Created by Leo on 11/29/17.
+ * Created by Sarah on 11/29/17.
  */
 public class PrepaidCard extends BankCard{
     public PrepaidCard(String cardHolder, long cardNumber, double balance){
