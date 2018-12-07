@@ -1,1 +1,26 @@
-Tirtle
+Project Description：
+
+Write a Turtle graphics program that plays the game of Hangman:
+en.wikipedia.org/wiki/Hangman_(game) The program begins by picking one of the following names of
+famous computer scientists at random:
+• ALAN TURING
+• DONALD KNUTH
+• ADA LOVELACE
+• GRACE HOPPER
+• GORDON MOORE
+
+The player then guesses letters until he/she gets the answer right (and wins) or makes a total of six 
+incorrect guesses (and loses). After each incorrect guess, a new body part is drawn: first the head,
+then the body, then the left arm, then the right arm, then the left leg and then the right leg: six
+incorrect guesses means that the player has lost. The space in each name is not considered part of
+the answer – the user needs only to guess the letters.
+
+Use a textinput window to take one letter at a time from the user. The user may enter a lowercase or
+uppercase letter as input, but the program should process all letters as uppercase. When the user
+guesses a letter correctly, the letter (or letters, if the letter is repeated in the word) should appear over
+its correct blank spot(s) in the word. If the user enters multiple letters at a single time, use only the
+first letter entered. You may assume that the user enters at least one letter and never enters nonletters.
+
+The entire alphabet should also be drawn on the screen, with guessed letters shown in red, as in the
+examples below. If a user guesses the same letter a second time, a new body part should not be
+added and the second guess should not be counted against the user.
