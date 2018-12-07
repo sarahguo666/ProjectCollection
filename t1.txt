@@ -1,7 +1,0 @@
-8711111111111111 debit 64.83 Daily_Planet_subscription
-8711111111111111 debit 1.25 Cobblepot_Industries
-8711111111111111 debit 0.75 Cobblepot_Industries
-8711111111111111 debit 154.75 Gotham_Rogues_tickets
-
-
-
