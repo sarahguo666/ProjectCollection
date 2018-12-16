@@ -1,0 +1,10 @@
+That’s a team work, three people in a group.
+The group will be given two sets of problems that require the use of statistical computation programs. 
+The data in each project will be generated synthetically according to a model. 
+The models are selected because they occur commonly, as noted in the scientific papers posted on the class blackboard. 
+
+The first project will be to analyze two different sets of synthetic data using single predictor linear regression. 
+One part of this problem will require to merge two data files; this part focuses on data processing issues. 
+
+The second project will be to analyze synthetic data with multiple predictors and to report the model that was used to generate the data. 
+The model generating the data may include non-linear predictors and two variable interactions of predictors. 
