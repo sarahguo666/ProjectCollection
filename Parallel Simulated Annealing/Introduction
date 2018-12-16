@@ -1,0 +1,8 @@
+This is an Independent Research aiming at PSA on Lennard Jones Problem
+
+This folder include 2 graphs with different parameters and my presentation 
+
+I run the C code on Supercomputer, download the result, and draw graphs using MATLAB
+By obeserving the graph, changing the parameter to find the balance point and local minimum
+Repeat the experiment for one parameter for 10  or 20 times
+By changing the C code to control the parameter
