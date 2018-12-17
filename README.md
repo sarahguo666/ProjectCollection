@@ -4,3 +4,5 @@
 a.> Programming Language: Python, Java and R
 
 b.> Research Project about PSA (using C programming and MATLAB) and Data Analysis project
+
+c.> Writing Sample
